@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "dissonant-emotes.json",
+    "bonus.json",
+    "Helldivers.json"
+  ],
+  "homeserver_url": "https://chat.dissonant.systems"
+}
